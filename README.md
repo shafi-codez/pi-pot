@@ -20,4 +20,10 @@ sudo apt-get install samba samba-common-bin smbclient cifs-utils
 ### Install Team Viewer
 [Install TeamViewer](https://linuxize.com/post/how-to-install-teamviewer-on-ubuntu-18-04/)
 
-[]()
+### Install Adobe PDF Reader
+```bash
+sudo add-apt-repository "deb http://archive.canonical.com/ precise partner"
+sudo apt-get update
+sudo apt install adobereader-enu
+https://askubuntu.com/questions/767937/how-do-i-install-adobe-acrobat-in-ubuntu-16-04
+```
