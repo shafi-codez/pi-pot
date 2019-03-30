@@ -10,5 +10,6 @@ sudo apt-get update
 sudo apt-get install samba samba-common-bin smbclient cifs-utils
 ```
 
-
-
+VPN Set up
+https://www.youtube.com/watch?v=WA7QTM9hovQ
+http://www.pivpn.io/
