@@ -53,3 +53,9 @@ sudo dpkg-reconfigure keyboard-configuration # ==> change the keyboard to USA PC
 https://www.youtube.com/watch?v=ZyTLMnzehyU
 
 https://medium.com/@hminaya/setting-up-a-shared-network-storage-device-with-a-raspberry-pi-97a2c284d912
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=125427
+```
+sudo mount -t cifs //xxx.xxx.xxx.xxx/myShareName /mnt/ -o \
+username=myUserName,password=myPassword
+```
