@@ -27,3 +27,24 @@ sudo apt-get update
 sudo apt install adobereader-enu
 https://askubuntu.com/questions/767937/how-do-i-install-adobe-acrobat-in-ubuntu-16-04
 ```
+### KeyBoard Set up 
+```
+sudo dpkg-reconfigure locales # ==> Change from en_GB.UTF-8 to en_US.UTF-8.
+sudo dpkg-reconfigure keyboard-configuration # ==> change the keyboard to USA PC104 
+# You can also change these setting from Pref => Keyboard Setting => Advanced
+```
+[source](https://www.adafruit.com/product/1738)
+
+### Interesting Project 
+1. [Calender Dashboard](https://www.hanselman.com/blog/HowToBuildAWallMountedFamilyCalendarAndDashboardWithARaspberryPiAndCheapMonitor.aspx)
+2. [Pi VPN : Secure and Private Home Network]()
+3. [Pi Cluster : Computational Power]()
+4. [Pi Cam : Live Streaming]()
+5. [Pi Cloud : Media Server]()
+6. [Pi Hub : Home Automation]()
+7. [Pi Cluster : Using Kubernetes]()
+8. [Pi Swarm : Docker Swarm]()
+9. [Pi Forecast : Weather Report]
+10. [Pi Bart Schedule](https://api.bart.gov/docs/overview/examples.aspx)
+11. [Install Heroku Cli on Pi](https://gist.github.com/kogcyc/39087873a8e9a5370376a43020ce1603)
+12. [IFTT](https://thepihut.com/blogs/raspberry-pi-tutorials/using-ifttt-with-the-raspberry-pi)
