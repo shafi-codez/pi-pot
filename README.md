@@ -48,3 +48,8 @@ sudo dpkg-reconfigure keyboard-configuration # ==> change the keyboard to USA PC
 10. [Pi Bart Schedule](https://api.bart.gov/docs/overview/examples.aspx)
 11. [Install Heroku Cli on Pi](https://gist.github.com/kogcyc/39087873a8e9a5370376a43020ce1603)
 12. [IFTT](https://thepihut.com/blogs/raspberry-pi-tutorials/using-ifttt-with-the-raspberry-pi)
+
+
+https://www.youtube.com/watch?v=ZyTLMnzehyU
+
+https://medium.com/@hminaya/setting-up-a-shared-network-storage-device-with-a-raspberry-pi-97a2c284d912
