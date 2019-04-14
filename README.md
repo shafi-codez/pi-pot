@@ -35,6 +35,13 @@ sudo dpkg-reconfigure keyboard-configuration # ==> change the keyboard to USA PC
 ```
 [source](https://www.adafruit.com/product/1738)
 
+### mount network shared in command line in OSX
+```
+# 192.168.0.1 is local router IP
+# User type is guest
+mount_smbfs -N //guest@192.168.0.1/USB_Storage ./mount-nas
+```
+
 ### Interesting Project 
 1. [Calender Dashboard](https://www.hanselman.com/blog/HowToBuildAWallMountedFamilyCalendarAndDashboardWithARaspberryPiAndCheapMonitor.aspx)
 2. [Pi VPN : Secure and Private Home Network]()
